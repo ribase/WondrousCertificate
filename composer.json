@@ -7,7 +7,7 @@
   "support": {
     "issues": "https://github.com/ribase/WondrousCertificate"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "replace": {
     "wondrous_certificate": "*"
   }
